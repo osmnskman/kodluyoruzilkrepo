@@ -20,3 +20,4 @@ Linux için :
  Pull requestler kabul edilir
  ## License
  [MIT](https://google.com)
+ asdasdas
